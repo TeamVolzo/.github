@@ -62,7 +62,7 @@ Whether you're an engineer, developer, designer, or mobility enthusiast — we w
 - **Prashant Ranjan** 
 - **Manas Kumar**
 - **Aashish Chandra**
-- **Ritik Prajapati** 
+
 
 ---
 
